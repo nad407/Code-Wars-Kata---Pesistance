@@ -1,0 +1,11 @@
+C:\Users\Schools_home\source\repos\Persistance\Persistance\obj\Debug\netcoreapp2.0\Persistent Bugger.csprojResolveAssemblyReference.cache
+C:\Users\Schools_home\source\repos\Persistance\Persistance\obj\Debug\netcoreapp2.0\Persistent Bugger.csproj.CoreCompileInputs.cache
+C:\Users\Schools_home\source\repos\Persistance\Persistance\obj\Debug\netcoreapp2.0\Persistent Bugger.AssemblyInfoInputs.cache
+C:\Users\Schools_home\source\repos\Persistance\Persistance\obj\Debug\netcoreapp2.0\Persistent Bugger.AssemblyInfo.cs
+C:\Users\Schools_home\source\repos\Persistance\Persistance\bin\Debug\netcoreapp2.0\Persistent Bugger.deps.json
+C:\Users\Schools_home\source\repos\Persistance\Persistance\bin\Debug\netcoreapp2.0\Persistent Bugger.runtimeconfig.json
+C:\Users\Schools_home\source\repos\Persistance\Persistance\bin\Debug\netcoreapp2.0\Persistent Bugger.runtimeconfig.dev.json
+C:\Users\Schools_home\source\repos\Persistance\Persistance\bin\Debug\netcoreapp2.0\Persistent Bugger.dll
+C:\Users\Schools_home\source\repos\Persistance\Persistance\bin\Debug\netcoreapp2.0\Persistent Bugger.pdb
+C:\Users\Schools_home\source\repos\Persistance\Persistance\obj\Debug\netcoreapp2.0\Persistent Bugger.dll
+C:\Users\Schools_home\source\repos\Persistance\Persistance\obj\Debug\netcoreapp2.0\Persistent Bugger.pdb
